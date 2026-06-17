@@ -1,8 +1,8 @@
-# Artblock
+# Artblock Safari
 
-**Every ad on the internet, replaced with fine art.**
+**Every ad on the internet, replaced with fine art. Now for Safari on macOS.**
 
-Artblock is a Chrome extension that detects advertisements, sponsored content, affiliate widgets, and promotional clutter on the pages you visit and swaps them for artwork from three public, open-access collections:
+Artblock Safari is a ~~Chrome~~ Safari extension that detects advertisements, sponsored content, affiliate widgets, and promotional clutter on the pages you visit and swaps them for artwork from three public, open-access collections:
 
 - 🏛 **Art Institute of Chicago** — paintings, Japanese woodblock prints, photography (Monet, Hokusai, O'Keeffe, and thousands more)
 - 🏛 **The Metropolitan Museum of Art** — centuries of painting, sculpture, and design
@@ -18,24 +18,7 @@ Artblock is a Chrome extension that detects advertisements, sponsored content, a
 
 ## Install
 
-### From the Chrome Web Store / Firefox Add-ons
-
-_(Coming soon on both.)_
-
-### Unpacked (development)
-
-**Chrome / Edge / Brave**
-
-1. Clone this repo: `git clone https://github.com/vuciv/artblock.git`
-2. Open `chrome://extensions`, enable **Developer mode**
-3. Click **Load unpacked**, select the repo root
-4. Visit any ad-supported site — the replacements happen automatically
-
-**Firefox**
-
-1. Clone the repo
-2. Run `./build.sh` — produces `artblock-firefox-v1.0.0.zip`
-3. Open `about:debugging#/runtime/this-firefox` → **Load Temporary Add-on** → select the zip (or the repo's `manifest.firefox.json`)
+*To be decided...*
 
 ## Building release packages
 
