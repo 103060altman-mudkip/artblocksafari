@@ -47,4 +47,4 @@ Artwork Safari and imagery are sourced from the open-access programs of the [Art
 
 ## License
 
-[MIT](./LICENSE)
+[GNU GPLv3](https://github.com/103060altman-mudkip/artblocksafari/blob/main/LICENSE)
