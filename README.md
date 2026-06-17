@@ -37,11 +37,13 @@ Produces `artblock-chrome-vX.Y.Z.zip` and `artblock-firefox-vX.Y.Z.zip`, ready t
 
 ## Privacy
 
-Artblock collects **nothing**. No analytics, no accounts, no telemetry, no browsing history. The only outbound requests it makes are to the three public museum/NASA APIs, and those requests carry nothing but a generic search term. See [PRIVACY.md](./PRIVACY.md).
+Artblock Safari collects **nothing**. No analytics, no accounts, no telemetry, no browsing history. The only outbound requests it makes are to the three public museum/NASA APIs, and those requests carry nothing but a generic search term. See [PRIVACY.md](./PRIVACY.md).
 
 ## Credits
 
-Artwork and imagery are sourced from the open-access programs of the [Art Institute of Chicago](https://www.artic.edu/open-access), [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search-open-access), and [NASA](https://images.nasa.gov). All collection metadata and images remain the property of their respective institutions.
+Artwork Safari and imagery are sourced from the open-access programs of the [Art Institute of Chicago](https://www.artic.edu/open-access), [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search-open-access), and [NASA](https://images.nasa.gov). All collection metadata and images remain the property of their respective institutions.
+
+[Artblock](https://github.com/vuciv/artblock) was created by **vuciv** and showcased [here](https://www.youtube.com/watch?v=dDdIGfo7SaE).
 
 ## License
 
